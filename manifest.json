@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "President Who?",
+  "version": "0.1",
+  "description": "President 45 is very temperamental, he deserves a name to match.",
+  "content_scripts":
+  [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "runt_at": "document_end"
+    }
+  ]
+}
