@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "MTAJA",
+  "name": "Make Trump A Joke Again",
   "version": "0.1",
   "description":
-    "President 45 is very temperamental, he deserves a name to match.",
+    "Replaces any mention of President Trump in the news with a rotating insightful and funny descriptor.",
   "content_scripts": [
     {
       "matches": ["*://*/*"],
