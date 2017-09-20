@@ -43,7 +43,11 @@ function handleText(textNode) {
     'the "master fracker" who thinks health insurance costs $12 per year',
     'the voracious ice-cream eater',
     'the aggrieved primogeniture victim',
-    'the aggrieved food-and-beverage proprietor'
+    'the aggrieved food-and-beverage proprietor',
+    'an avid meme re-tweeter',
+    'a bathrobe aficionado',
+    'the wayward Steve Bannon protégé',
+    'an outer borough food and beverage executive'
   ];
 
   var randomNameIndex = Math.floor(Math.random() * names.length);
