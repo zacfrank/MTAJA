@@ -47,7 +47,8 @@ function handleText(textNode) {
     'an avid meme re-tweeter',
     'a bathrobe aficionado',
     'the wayward Steve Bannon protégé',
-    'an outer borough food and beverage executive'
+    'an outer borough food and beverage executive',
+    'the well-known dotard'
   ];
 
   var randomNameIndex = Math.floor(Math.random() * names.length);
